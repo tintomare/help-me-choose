@@ -14,13 +14,14 @@ body {
 }
 
 .inputs {
-  width: inherit;
+  width:inherit;
   display: flex;
   flex-direction: column;
 }
 
 input {
   margin-top: 10px;
+
 }
 
 .addOption {
