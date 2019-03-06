@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+  background-color: lightblue;
+
+}
+.inputSection {
+  margin: 50px 0px 80px 0px;
+  width: 400px;
+
+}
+
+.inputs {
+  width: inherit;
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-top: 10px;
+}
+
+.addOption {
+  margin-top: 10px;
+}
+h1 {
+  font-weight: lighter;
+  font-size: 40;
+  color: blue;
+  letter-spacing: 1px;
+  margin-bottom: 2;
+}
+
+button {
+  background-color: pink;
+}
